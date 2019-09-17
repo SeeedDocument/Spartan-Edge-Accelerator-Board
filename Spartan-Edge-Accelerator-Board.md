@@ -358,7 +358,7 @@ The **running status** of vivado is displayed in the upper right corner.
 
 2. Select **Add or create design sources** and click Next.
 
-3. Click the button![img](https://i.screenshot.net/0dnqqco) and select options or click the options directly to add or create files, as shown in figure 3.
+3. Click the button ![img](https://github.com/SeeedDocument/Spartan-Edge-Accelerator-Board/raw/master/img/stand-alone/icon-plus.png) and select options or click the options directly to add or create files, as shown in figure 3.
 
 
 <div align="center">
@@ -559,7 +559,7 @@ The **running status** of vivado is displayed in the upper right corner.
 - **Step 7: Synthesizing and Implementing the Design**
 
 
-  After configuring the synthesis and implementation run options, you can **run synthesis** and **run implementation** in the **Design Runs** or click the button ![img](https://i.screenshot.net/llo40sg)  or click corresponding buttons in the **Flow Navigator** to do this. The **running status** of vivado is displayed in the upper right corner while Synthesizing and Implementing.
+  After configuring the synthesis and implementation run options, you can **run synthesis** and **run implementation** in the **Design Runs** or click the button ![img](https://github.com/SeeedDocument/Spartan-Edge-Accelerator-Board/raw/master/img/stand-alone/68747470733a2f2f692e73637265656e73686f742e6e65742f6c6c6f34307367.png)  or click corresponding buttons in the **Flow Navigator** to do this. The **running status** of vivado is displayed in the upper right corner while Synthesizing and Implementing.
 
  
 
